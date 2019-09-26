@@ -1,2 +1,2 @@
 # JupyterNotebooks
-A misc collection of Jupyter Notebooks
+A misc collection of Jupyter Notebooks and other associated files.
